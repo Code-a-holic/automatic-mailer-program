@@ -1,0 +1,8 @@
+Hi <admin>,
+
+Today we have no b'days in the team.
+
+<timestamp>
+
+Thanks and Regards,
+Automated B'day Wisher.

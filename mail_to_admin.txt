@@ -1,0 +1,6 @@
+Hi <admin>,
+
+B'day emails have been sent to the respective recipients at <timestamp>
+
+Thanks and Regards,
+Automated B'day Wisher.
